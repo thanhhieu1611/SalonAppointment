@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299945274153",
+    "project_id": "salonappointment-d5b99",
+    "storage_bucket": "salonappointment-d5b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299945274153:android:c4cc14aaa672e279942538",
+        "android_client_info": {
+          "package_name": "com.example.salonappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299945274153-ull94aik5vepq4g47a6d2f07ut06vcp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Js2WW2b7dMaTWsiSMsAkk6PUKA3VuVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299945274153-ull94aik5vepq4g47a6d2f07ut06vcp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

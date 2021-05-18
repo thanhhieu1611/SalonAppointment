@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">SalonAppointment</string>
+    <string name="numOfService">Welcome to Alpha Salon</string>
+    <string name="rsFlashImage">Flash Screen Animated Image</string>
+    <string name="rnNumOfServices">0</string>
+    <string name="chooseService">SERVICE SELECTION!</string>
+    <string name="service1">Excel Expert</string>
+    <string name="service1Price">49.95</string>
+    <string name="service2">Professional PowerPoint</string>
+    <string name="service2Price">39.95</string>
+    <string name="service3">Magic PhotoShop</string>
+    <string name="service3Price">59.95</string>
+    <string name="service4">Pro Illustrator</string>
+    <string name="service4Price">55.95</string>
+    <string name="service5">App Development</string>
+    <string name="service5Price">95.95</string>
+    <string name="service6">Web Development</string>
+    <string name="service6Price">89.95</string>
+
+    <!--Declare array to popular data into spinner-->
+    <string-array name="serviceQuantity">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string name="nextBtn">Next</string>
+    <string name="label">label and notes</string>
+    <string name="email">Your Email Address</string>
+    <string name="password">Password</string>
+    <string name="rememberMe">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="username">User Name</string>
+    <string name="chooseProfessional">Service Provider?</string>
+    <string name="professional">Professional Name</string>
+    <string name="professionalName">professional name</string>
+    <string name="backBtn">BACK</string>
+    <string name="timeslot1">8am-9am</string>
+    <string name="timeslot2">9am-10am</string>
+    <string name="timeslot3">10am-11am</string>
+    <string name="timeslot4">11am-12am</string>
+    <string name="timeslot5">12am-1pm</string>
+    <string name="timeslot6">1pm-2pm</string>
+    <string name="timeslot7">2pm-3pm</string>
+    <string name="timeslot8">3pm-4pm</string>
+    <string name="timeslot9">4pm-5pm</string>
+    <string name="confirm">BOOK</string>
+    <string name="thankyou">Thanks for visiting!</string>
+    <string name="close">CLOSE</string>
+    <string name="apptitle">Here is a recap:</string>
+    <string name="serviceLabel">Service:</string>
+    <string name="serviceContent">Service Booked</string>
+    <string name="servicePriceLbl">Price:</string>
+    <string name="servicePrice">0.00</string>
+    <string name="providerLbl">Provider:</string>
+    <string name="provider">Provider Booked</string>
+    <string name="noteLabel">Notes:</string>
+    <string name="dateLabel">Date:</string>
+    <string name="timelabel">Time:</string>
+    <string name="noteContent">Notes content</string>
+    <string name="customerNote"></string>
+    <string name="dateContent">Date</string>
+    <string name="timeContent">Time</string>
+    <string name="message">See you soon!</string>
+    <string name="thankyou_img">Thank You</string>
+    <string name="imageContent">Image Content</string>
+    <string name="goback">Back</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="info">Please select a date and time!</string>
+    <string name="edit">EDIT</string>
+    <string name="contacts">Contact Us:</string>
+    <string name="phonenumber">4175624520</string>
+    <string name="call">Call Phone</string>
+</resources>
